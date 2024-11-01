@@ -24,10 +24,9 @@ To run the Simple Calculator, you'll need Python installed on your machine. You 
    ```bash
    git clone https://github.com/yourusername/Simple-Calculator.git
 2. Navigate to the project directory:
-  bash
-  Copy code
-  cd Simple-Calculator
+   ```bash
+   cd Simple-Calculator
 3. Run the calculator: You can execute the calculator script using Python:
-  bash
-  Copy code
-  python Calculator.py
+   ```bash
+   python Calculator.py
+
